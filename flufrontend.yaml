@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+  http:
+  provider:
+  shared_preferences:
